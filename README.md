@@ -1,4 +1,4 @@
-# Osiris 
+# Osiris Remastered 3.0
 [![C++](https://img.shields.io/badge/language-C%2B%2B-%23f34b7d.svg?style=plastic)](https://en.wikipedia.org/wiki/C%2B%2B) 
 [![CS:GO](https://img.shields.io/badge/game-CS%3AGO-yellow.svg?style=plastic)](https://store.steampowered.com/app/730/CounterStrike_Global_Offensive/) 
 [![License](https://img.shields.io/github/license/danielkrupinski/Osiris.svg?style=plastic)](LICENSE)
@@ -16,7 +16,7 @@ Free open-source cross-platform cheat software for **Counter-Strike: Global Offe
 *   **Chams** - color player models to improve visibility
 *   **Stream Proof ESP** - show information about players, dropped weapons and projectiles
 *   **Visuals** - miscellaneous visual options
-*   [**Inventory Changer**](Source/InventoryChanger/) - add weapon skins, stickers, knives, gloves, medals and more to your in-game inventory
+*   [**Inventory Changer**](Source/InventoryChanger/) - add weapon skins, stickers, knives, gloves, medals and more to your in-game inventory [ ** UPDATED AND IMPROVED ** ]
 *   **Sound** - modify volume of certain sound effects
 *   **Style** - select menu window layout and colors
 *   **Misc** - miscellaneous features
