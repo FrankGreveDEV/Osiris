@@ -16,7 +16,7 @@ Free open-source cross-platform cheat software for **Counter-Strike: Global Offe
 *   **Chams** - color player models to improve visibility
 *   **Stream Proof ESP** - show information about players, dropped weapons and projectiles
 *   **Visuals** - miscellaneous visual options
-*   [**Inventory Changer**](Source/InventoryChanger/) - add weapon skins, stickers, knives, gloves, medals and more to your in-game inventory [ ** UPDATED AND IMPROVED ** ]
+*   [**Inventory Changer**](Source/InventoryChanger/) - add weapon skins, stickers, knives, gloves, medals and more to your in-game inventory [UPDATED AND IMPROVED by Klovnen#1942]
 *   **Sound** - modify volume of certain sound effects
 *   **Style** - select menu window layout and colors
 *   **Misc** - miscellaneous features
